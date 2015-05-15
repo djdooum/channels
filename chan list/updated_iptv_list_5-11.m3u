@@ -1,0 +1,186 @@
+#EXTM3U
+
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#?EXTINF?:-0,DISCOVERY
+http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8
+#EXTINF:0, VH-1 Classic
+http://edge.ailetv.net/org13/vh1classic_me/playlist.m3u8
+
+#EXTINF:-1,CRIME INVESTIGATION NETWORK
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8?model=Qpjle6Iumd
+
+#EXTINF:-1,WB HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?#EXTINF:-1 SONY TURBO 
+#EXTINF:-1,OWN
+ 
+http://142.4.216.60:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658&xs=_we_dWVoZ3k1aHRpYXNmZmozfDE0MTk5MTQ2NTh8fDU0YTFhMTAyYWFmNDV8YjhmYTUyMTQ1OTQ5OWY3NzNiZWExYjdlZGE5ZWM5OWEzODkzMjI0ZA timeout=10
+
+#EXTINF:-1,NICKELODEON
+http://46.173.175.164:8089/89
+
+#EXTINF:-1 tvg-logo="vh1 hd.png",VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+
+#EXTINF:0,Virgin TV
+rtmp://fms.105.net:1935/live/virgin1
+
+#EXTINF:-1, Via.Nature HD
+http://46.173.175.164:8094/94
+
+
+#EXTINF:-1, NatGeoWild HD
+http://46.173.175.164:8084/84
+
+#EXTINF:-1,Discovery Channel
+http://85.14.32.6:5050/udp/239.100.101.27:8888
+
+
+#EXTINF:-1,FOOD NETWORK
+http://live.zoptv.com/filmon/master.m3u8?id=20
+
+#EXTINF:-1,MORE 4
+http://live.zoptv.com/filmon/master.m3u8?id=97
+
+#EXTINF:-1, MGM HD 
+http://46.173.175.164:8099/99
+
+#EXTINF:0,Baby TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
+
+#EXTINF:O,MTV Live HD
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+
+#EXTINF:-1,History Channel HD
+http://46.173.175.164:8105/105
+
+#EXTINF:-1,5 USA
+http://live.zoptv.com/filmon/master.m3u8?id=845
+
+
+
+#EXTINF:-1,[COLOR pink]»»------------------------------ Movies ------------------------------««[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Sky Movies Premiere
+http://188.227.189.18:8082/TV4251
+#EXTINF:-1,Sky Movies Premiere+
+http://188.227.189.18:8082/TV4252
+#EXTINF:-1,Sky Sky Movies Select
+http://188.227.189.18:8082/TV4254
+#EXTINF:-1,Sky  Movies Action & Adventure
+http://188.227.189.18:8082/TV4245
+#EXTINF:-1,Sky Movies Comedy
+http://188.227.189.18:8082/TV4246
+#EXTINF:-1,Sky Movies Disney
+http://188.227.189.18:8082/TV4247
+#EXTINF:-1,Sky  Movies Family
+http://188.227.189.18:8082/TV4248
+#EXTINF:-1,Sky   Movies SciFi
+http://188.227.189.18:8082/TV4249
+#EXTINF:-1,Sky ARTRS 2
+http://188.227.189.18:8082/TV4250
+#EXTINF:-1,HBO
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,CINECal +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+
+
+#EXTINF:-1,[COLOR blue]»»——————————————— Entertainment ------------------------------««[/COLOR]
+#EXTINF:-1,Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8?Vd?u#bt!25
+#EXTINF:-1,NBCSN
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+#EXTINF:-1,Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="MUSIC", Best Music Tv HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,BLOOMBERG
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1,NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1,HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+#EXTINF:-1, MGM HD 
+http://46.173.175.164:8099/99
+
+#EXTINF:-0,MLB
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:80/live playpath=mlbxx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.reytv.co/embed.php?live=mlbxx&vw=620&vh=490 token=%Zrey(nKa@#Z
+
+#EXTINF:-1, History HD
+http://46.173.175.164:8105/105 
+#EXTINF:-1, TLC HD
+http://46.173.175.164:8106/106
+#EXTINF:-1, Travel HD 
+http://live.zoptv.com/filmon/master.m3u8?id=842
+#EXTINF:1, Silk 1 1080 HD
+http://80.77.52.6:4314/udp/226.0.0.7:12345
+#EXTINF:1, Silk 2 1080 HD
+http://80.77.52.6:4314/udp/226.0.0.8:12345
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1,MTV Live HD UK
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1, FILM ZONE HD (English/Spanish)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1,FOX Life HD (Dual Audio)
+http://rostelec.noip.me:1234/udp/233.7.70.158:5000
+#EXTINF:-1,RTE One
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:-1,RTE Two
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:-1,TV3
+http://212.250.46.35:4252/bysid/9605
+#EXTINF:-1,TG4
+http://212.250.46.35:4252/bysid/9603
+#EXTINF:-1,RTE Jr.
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1, Animal planet
+http://85.254.184.5:8888/udp/224.200.1.75:1234
+
+
+
+
+
+ADULTS ONLY 18+
+#EXTINF:-1,+18 PLAYBOY TV [INGLES]
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,+18 PASSIEXXX [INGLES]
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,HUTSLERTV
+http://85.254.184.5:8888/udp/224.200.1.47:1234
+#EXTINF:-1,Porn: XXX 2
+http://iptv.hopto.org:9705/live/fcb:AlbTvSystems../fcb:AlbTvSystems../224.ts
+#EXTINF:-1,Pink Erotic 1
+http://iptv.hopto.org:9705/live/fcb:AlbTvSystems../fcb:AlbTvSystems../184.ts
+#EXTINF:-1,Digi Gold
+http://iptv.hopto.org:9705/live/fcb:AlbTvSystems../fcb:AlbTvSystems../191.ts\
